@@ -37,8 +37,13 @@
 - 对比了流失客户和留存客户的特征
 - 确定了上面三个关键预警信号
 
-**📊 想了解详细分析过程？**
-[查看完整数据分析报告](./customer_churn_prediction.html)
+
+**📊 详细分析资料：**
+
+| 格式 | 用途 | 适合谁 | 查看方式 |
+|------|------|--------|----------|
+| **📄 HTML交互报告** | 完整可视化分析结果 | 所有同事 | [在线查看](https://Yassi7379.github.io/customer_churn_prediction/customer_churn_prediction.html) |
+| **💻 Jupyter源代码** | 完整分析过程代码 | 技术同事 | [查看源码](./customer_churn_prediction.ipynb) |
 
 ### 第二步：建立预警系统
 我们将分析结果变成了一个**简单易用的监控看板**：
@@ -51,5 +56,5 @@
 
 
 **📋 想查看看板完整效果？**
-[查看监控看板完整预览](./customer_churn_prediction-监控仪表板.pdf)
+[查看监控看板完整预览](./customer_churn_prediction_dashboard.pdf)
 
