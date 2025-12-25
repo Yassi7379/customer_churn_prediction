@@ -42,7 +42,7 @@
 
 | 格式 | 用途 | 适合谁 | 查看方式 |
 |------|------|--------|----------|
-| **📄 HTML交互报告** | 完整可视化分析结果 | 所有同事 | [在线查看](https://Yassi7379.github.io/customer_churn_prediction/customer_churn_prediction.html) |
+| **📄 HTML交互报告** | 完整可视化分析结果 | 所有同事 | [在线查看](https://Yassi7379.github.io/customer_churn_prediction/customer_churn_prediction.pdf) |
 | **💻 Jupyter源代码** | 完整分析过程代码 | 技术同事 | [查看源码](./customer_churn_prediction.ipynb) |
 
 ### 第二步：建立预警系统
